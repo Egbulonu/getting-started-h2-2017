@@ -294,9 +294,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)		 		 
 (85) Fagbemi Oluwaseun, xeunskate, xeunskate
 (86) Agbor Ebam John, @jeshurun, ebam1
-<<<<<<< HEAD
 (87) Ademola adebanji, (slack: @detech, github:ademolaadebanji) 
-=======
 (87) Daniel Enoch Ojonimi(slack :@oj_blaze, github: Eblazecode)
 (87) Isaac Etukudo, topic, isaacetukudo
 (88) Udofia Enwongo (slack:@enwong_o, github:enwong01)
@@ -358,6 +356,7 @@ Danie Ukwu, (slack: @chistel, github: @chiste
 (140) Idagu Dominic Idoko, domgeek , didagu
 (141) Olowokere David Saint, davidsaint, DSaint109
 (142) Enyenihi Ovu Eddy, (Slack:@villeroeddy,  github:Villero)
-
+(143) Miracle Azurunwa, crackmixer, crackmixer
+(144) Ekwuno Obinna (Slack: ekwunoobinna, Github: ekwunoobinna)
 
 
