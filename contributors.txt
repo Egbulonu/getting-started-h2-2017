@@ -357,5 +357,9 @@ Danie Ukwu, (slack: @chistel, github: @chiste
 (139) Popoola Dotun Samuel , slack: @bcooldotman , github: bcooldotman
 (140) Idagu Dominic Idoko, domgeek , didagu
 (141) Olowokere David Saint, davidsaint, DSaint109
+<<<<<<< HEAD
 (142) Miracle Azurunwa, crackmixer, crackmixer
+=======
+(142) Ekwuno Obinna (Slack: ekwunoobinna, Github: ekwunoobinna)
+>>>>>>> 4d8816f49484c317c60dd7474eb8e4d43c6087a8
 
